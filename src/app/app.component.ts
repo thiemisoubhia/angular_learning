@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { TextcomponentComponent } from './textcomponent/textcomponent.component';
+import { ImagecomponentComponent } from './imagecomponent/imagecomponent.component';
+import { EmpComponent } from './emp/emp.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [TextcomponentComponent, ImagecomponentComponent, EmpComponent], 
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
