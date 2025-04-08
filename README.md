@@ -1,7 +1,7 @@
 # ❤️ Hello Angular World! ❤️
 
-This is my very first AngularJS project — made with care, curiosity, and lots of learning! 🧠✨  
-I'm currently learning Angular through the [**Simplilearn Angular Basics**](https://www.simplilearn.com/) course, and this little app is part of my journey. 💻🌈
+This is my very first AngularJS project — made with care, curiosity, and lots of learning!
+I'm currently learning Angular through the [**Simplilearn Angular Basics**](https://www.simplilearn.com/) course, and this little app is part of my journey.
 
 >  A summary of my learning so far is available in the [`resume.pdf`](./resume.pdf) file! Check it out! 📄
 
