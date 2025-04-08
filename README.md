@@ -37,4 +37,4 @@ With love,
 Thiemi ❤️
 
 
-The app will reload automatically whenever you update the source files! 🔁✨
+The app will reload automatically whenever you update the source files!
