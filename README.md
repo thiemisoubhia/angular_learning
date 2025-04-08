@@ -26,15 +26,15 @@ ng serve
 
 Then open your browser at http://localhost:4200/
 The app will reload automatically whenever you update the source files!
- Additional Resources
+
+## Additional Resources
 For more info, check out the official documentation:
 [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli)
+
+---
 
 ❤️ Thanks for stopping by! I'm just getting started, but I'm excited for what’s next!
 Feel free to explore, suggest improvements, or cheer me on! 🎉
 
 With love,
 Thiemi ❤️
-
-
-The app will reload automatically whenever you update the source files!
